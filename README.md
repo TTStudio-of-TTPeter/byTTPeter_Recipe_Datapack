@@ -26,7 +26,7 @@ To View it **offline**:
 
 Download source pack to see `byTTPeter_Recipe changes doc.md`. The pics referred in the file might not load from Github. So make sure there exists `Changes_pic` folder. To View the Markdown Document, you may use `Typora`. Alternatively, view `byTTPeter_Recipe changes doc.html` in local.
 
-**Offline Booklet is provided [here(Download)](https://github.com/TTStudio-of-TTPeter/byTTPeter_Recipe_Datapack/raw/main/zip_to_upload/byTTPeter_Recipe_Datapack_doczip.zip)!**
+**Offline Booklet is provided [here(Download)](https://github.com/TTStudio-of-TTPeter/byTTPeter_Recipe_Datapack/raw/main/zips_to_upload/byTTPeter_Recipe_Datapack_doczip.zip)!**
 
 ## My bad
 
