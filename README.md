@@ -14,6 +14,10 @@ This is a project to develop a personal datapack for Minecraft(JE). It aims to m
 - Create
 - Exnihilo: Sequentia
 
+## Booklet for Players
+
+Download source pack to see `byTTPeter_Recipe changes doc.md`. The pics referred in the file can't load from Github. So make sure there exists `Changes_pic` folder. To View the Markdown Document, you may use `Typora`.
+
 ## My bad
 
 Sorry for some confusing choices, I actually know nothing about the neccessity of `tags\blocks` and I just made it a copy of `tags\items`.
