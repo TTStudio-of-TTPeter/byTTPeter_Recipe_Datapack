@@ -34,6 +34,8 @@ Sorry for some confusing choices, I actually know nothing about the neccessity o
 
 Also, it seem that `forge:grain` and `forge:crops` didn't taken compressed counterparts into consideration. I don't know if that's true, but in my tags `byttpeter_recipe` those are counted.
 
+And please do not care about the sequence of tags of items. The tagging logic is really confusing and I thought it to be random.
+
 ## Update Log
 
 ### 1.0.1
