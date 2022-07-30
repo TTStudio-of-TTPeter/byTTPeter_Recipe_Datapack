@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:hay_block",
+    "minecraft:wheat",
+    "#forge:crops",
+    "#forge:grain",
+    "#byttpeter_recipe:grain/compressed",
+    "#farmersdelight:grain"
+  ]
+}

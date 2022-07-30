@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "farmersdelight:rice_bale",
+    "farmersdelight:rice_bag",
+    "culturaldelights:corn_cob_crate",
+    "corn_delight:corn_crate",
+    "corn_delight:corn_kernel_bag"
+  ]
+}

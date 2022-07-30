@@ -1,0 +1,28 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      " S ",
+      "IRI",
+      "GPG"
+    ],
+    "key": {
+      "I": {
+        "tag": "forge:ingots"
+      },
+      "G": {
+        "item": "minecraft:glass_pane"
+      },
+      "P": {
+        "item": "minecraft:paper"
+      },
+      "S": {
+        "tag": "forge:string"
+      },
+      "R": {
+        "item": "minecraft:redstone"
+      }
+    },
+    "result": {
+      "item": "minecraft:name_tag"
+    }
+  }
