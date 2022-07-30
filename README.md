@@ -20,6 +20,8 @@ To View it online:
 
 **See `byTTPeter_Recipe changes doc_online.md`**. You may click [here](https://github.com/TTStudio-of-TTPeter/byTTPeter_Recipe_Datapack/blob/main/byTTPeter_Recipe%20changes%20doc_online.md)
 
+Also, a HTML version is offered.
+
 To View it offline:
 
 Download source pack to see `byTTPeter_Recipe changes doc.md`. The pics referred in the file can't load from Github. So make sure there exists `Changes_pic` folder. To View the Markdown Document, you may use `Typora`.
