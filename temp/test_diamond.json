@@ -1,0 +1,13 @@
+{
+    "type":"exnihilosequentia:sieve",
+    "rolls":[
+        {"chance":1,"mesh":"iron"}
+    ],
+    "input":[
+        {"tag":"minecraft:slabs"},
+        {"item":"minecraft:sand"},
+        {"tag":"minecraft:dirt"}
+    ],
+    "result":{"item":"minecraft:diamond"},
+    "waterlogged":true
+}

@@ -1,0 +1,11 @@
+{
+    "type":"exnihilosequentia:sieve",
+    "rolls":[
+        {"chance":0.50,"mesh":"string"},
+        {"chance":0.85,"mesh":"flint"},
+        {"chance":1.00,"mesh":"iron"}
+        ],
+    "input":{"item":"create:wheat_flour"},
+    "result":{"item":"create:dough"},
+    "waterlogged":true
+}
