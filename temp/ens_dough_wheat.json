@@ -2,13 +2,14 @@
     "type":"exnihilosequentia:sieve",
     "rolls":[
         {"chance":0.50,"mesh":"string"},
-        {"chance":0.7,"mesh":"flint"},
+        {"chance":0.70,"mesh":"flint"},
         {"chance":0.85,"mesh":"iron"},
         {"chance":0.95,"mesh":"diamond"}
-    ],
+        ],
     "input":{"tag":"byttpeter_recipe:grain/compressed"},
     "result":{
-        "item":"create:wheat_flour",
+        "item":"create:dough",
         "count":9
-    }
+    },
+    "waterlogged":true
 }

@@ -3,10 +3,9 @@
     "rolls":[
         {"chance":0.5,"mesh":"string"},
         {"chance":0.7,"mesh":"flint"},
-        {"chance":0.85,"mesh":"iron"},
-        {"chance":0.95,"mesh":"diamond"}
+        {"chance":0.85,"mesh":"iron"}
     ],
-    "input":{"item":"minecraft:hay_block"},
+    "input":{"tag":"byttpeter_recipe:grain/compressed"},
     "result":{
         "item":"farmersdelight:wheat_dough",
         "count":9
