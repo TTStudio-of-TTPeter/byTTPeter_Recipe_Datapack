@@ -18,9 +18,9 @@ This is a project to develop a **personal datapack** for Minecraft(JE). It aims 
 
 To View it online:
 
-**See `byTTPeter_Recipe changes doc_online.md`**. You may click [here](https://github.com/TTStudio-of-TTPeter/byTTPeter_Recipe_Datapack/blob/main/byTTPeter_Recipe%20changes%20doc_online.md)
+**See `byTTPeter_Recipe changes doc_online.md`**. You may click [here to view](https://github.com/TTStudio-of-TTPeter/byTTPeter_Recipe_Datapack/blob/main/byTTPeter_Recipe%20changes%20doc_online.md) or [here to download](https://ttstudio-of-ttpeter.github.io/byttpeter_recipe_datapack/byTTPeter_Recipe%20Changes%20doc_online.md)
 
-Also, a HTML version is offered.
+Also, a [HTML version](https://ttstudio-of-ttpeter.github.io/byttpeter_recipe_datapack/byTTPeter_Recipe%20changes%20doc_online.html) is offered.
 
 To View it offline:
 
