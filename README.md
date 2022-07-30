@@ -1,9 +1,9 @@
 # byTTPeter_Recipe_Datapack
  《我的世界》个人数据包，以完善和想象为主。
 
-This is a project to develop a personal datapack for Minecraft(JE). It aims to make the game 'a whole'. Also imagination is a big part of reasons for the creations. Imagination and enhancement!
+This is a project to develop a **personal datapack** for Minecraft(JE). It aims to make the game 'a whole'. Also imagination is a big part of reasons for the creations. Imagination and enhancement!
 
-`JEI` is highly recommended!
+*`JEI` is highly recommended!*
 
 ## Mods in Consideration
 
@@ -16,7 +16,15 @@ This is a project to develop a personal datapack for Minecraft(JE). It aims to m
 
 ## Booklet for Players
 
+To View it online:
+
+**See `byTTPeter_Recipe changes doc_online.md`**. You may click [here](https://github.com/TTStudio-of-TTPeter/byTTPeter_Recipe_Datapack/blob/main/byTTPeter_Recipe%20changes%20doc_online.md)
+
+To View it offline:
+
 Download source pack to see `byTTPeter_Recipe changes doc.md`. The pics referred in the file can't load from Github. So make sure there exists `Changes_pic` folder. To View the Markdown Document, you may use `Typora`.
+
+**Alternatively, view `byTTPeter_Recipe changes doc.html` in local.**
 
 ## My bad
 

@@ -6,7 +6,7 @@
 
 ### Name Tag
 
-![name tag](https://github.com/TTStudio-of-TTPeter/byTTPeter_Recipe_Datapack/raw/main/Changes_pic/1.0.0/name tag.png)
+![name tag](https://github.com/TTStudio-of-TTPeter/byTTPeter_Recipe_Datapack/raw/main/Changes_pic/1.0.0/name%20tag.png)
 
 Tips:
 
